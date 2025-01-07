@@ -1,0 +1,9 @@
+{
+	"name": "SC's Category Freeplay in LUA",
+	"description": "Recreated Vs Bambi: Strident Crisis's Category Freeplay in LUA (WIP). Made by MiuJoan6952_2, assets from Vs Bambi: Strident Crisis.",
+	"restart": false,
+	"runsGlobally": true,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
